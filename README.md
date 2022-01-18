@@ -26,12 +26,14 @@ to learn more about whatever you want after studying it.
 
 1. [What is programming?](Introduction/what-is-programming.md)
 2. [Installing Python](Introduction/installing-python.md)
-3. [Introduction] (Introduction/)
+3. [Getting started with Python](Introduction/getting-started.md)
+4. [Introduction/Simple GCD.py] (https://github.com/yogeshcenation/Python-Programming-DS/blob/b3e05002e6e80b3f44ceba110e2e71beecb1658d/Introduction/Simple%20GCD.py)
+5. [Introduction/Naive_GCD_Improvement.py] (https://github.com/yogeshcenation/Python-Programming-DS/blob/b3e05002e6e80b3f44ceba110e2e71beecb1658d/Introduction/Naive_GCD_Improvement.py)
+6. [Introduction/GCD without Lists.py] (https://github.com/yogeshcenation/Python-Programming-DS/blob/b3e05002e6e80b3f44ceba110e2e71beecb1658d/Introduction/GCD%20without%20Lists.py)
+7. [Introduction/GCD Using Euclids Algo.py] (https://github.com/yogeshcenation/Python-Programming-DS/blob/b3e05002e6e80b3f44ceba110e2e71beecb1658d/Introduction/GCD%20Using%20Euclids%20Algo.py)
 
 - **Important:** [getting help](getting-help.md)
 - [Contact me](contact-me.md)
-
-- [The TODO list](TODO.md)
 
 ## Frequently asked questions
 
