@@ -4,7 +4,7 @@ This is a concise Python 3 programming tutorial for people who think
 that reading is boring. I try to show everything with simple code
 examples; there are no long and complicated explanations with fancy
 words. If you have never programmed before click
-[here](basics/what-is-programming.md) to find out what programming is
+[here](Introduction/what-is-programming.md) to find out what programming is
 like and get started.
 
 This tutorial is aimed at people with no programming experience at all
@@ -24,9 +24,9 @@ The tutorial consists of two sections:
 This section will get you started with using Python and you'll be able
 to learn more about whatever you want after studying it.
 
-1. [What is programming?](basics/what-is-programming.md)
-2. [Installing Python](basics/installing-python.md)
-3. [Introduction] ()
+1. [What is programming?](Introduction/what-is-programming.md)
+2. [Installing Python](Introduction/installing-python.md)
+3. [Introduction] (Introduction/)
 
 - **Important:** [getting help](getting-help.md)
 - [Contact me](contact-me.md)
