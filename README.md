@@ -17,20 +17,18 @@ use Python 2 because it's no longer supported.**
 
 ## List of contents
 
-The tutorial consists of two sections:
+The tutorial consists of:
 
 ### Basics
 
-This section will get you started with using Python and you'll be able
+This section will get you started with using Python, and you'll be able
 to learn more about whatever you want after studying it.
 
 1. [What is programming?](Introduction/what-is-programming.md)
 2. [Installing Python](Introduction/installing-python.md)
 3. [Getting started with Python](Introduction/getting-started.md)
-4. [Introduction/Simple GCD.py] (https://github.com/yogeshcenation/Python-Programming-DS/blob/b3e05002e6e80b3f44ceba110e2e71beecb1658d/Introduction/Simple%20GCD.py)
-5. [Introduction/Naive_GCD_Improvement.py] (https://github.com/yogeshcenation/Python-Programming-DS/blob/b3e05002e6e80b3f44ceba110e2e71beecb1658d/Introduction/Naive_GCD_Improvement.py)
-6. [Introduction/GCD without Lists.py] (https://github.com/yogeshcenation/Python-Programming-DS/blob/b3e05002e6e80b3f44ceba110e2e71beecb1658d/Introduction/GCD%20without%20Lists.py)
-7. [Introduction/GCD Using Euclids Algo.py] (https://github.com/yogeshcenation/Python-Programming-DS/blob/b3e05002e6e80b3f44ceba110e2e71beecb1658d/Introduction/GCD%20Using%20Euclids%20Algo.py)
+4. [Introduction](Introduction/introduction.md)
+5. 
 
 - **Important:** [getting help](getting-help.md)
 - [Contact me](contact-me.md)
@@ -53,18 +51,17 @@ asked to create a GitHub account if you don't already have one.
 2. Click the big green "Clone or download" button in the top right of
     the page, then click "Download ZIP".
 
-    ![Download ZIP](images/download-me.png)
+    ![Download ZIP](images/download.png)
 
 3. Extract the ZIP and open it. Unfortunately I don't have any more
     specific instructions because how exactly this is done depends on
     which operating system you run.
-4. Run `make-html.py` and follow the instructions.
 
-If you have git and you know how to use it, you can also clone the
+If you have git, and you know how to use it, you can also clone the
 repository instead of downloading a zip and extracting it. An advantage
 with doing it this way is that you don't need to download the whole
 tutorial again to get the latest version of it, all you need to do is to
-pull with git and run `make-html.py` again.
+pull with git and run the program by completing it.
 
 ## Authors
 
@@ -74,7 +71,7 @@ See [github's contributors page]() for details.
 ***
 
 If you have trouble with this tutorial please [tell me about
-it](./contact-me.md) and I'll make this tutorial better. If you
+it,](./contact-me.md) and I'll make this tutorial better. If you
 like this tutorial, please [give it a
 star](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
 
