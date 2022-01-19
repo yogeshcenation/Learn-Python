@@ -220,5 +220,5 @@ star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
 You may use this tutorial freely at your own risk. See
 [LICENSE](../LICENSE).
 
-[Previous](installing-python.md) | [Next](introduction.md) |
+[Previous](installing-python.md) | [Next](basics.md) |
 [List of contents](../README.md#basics)

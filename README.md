@@ -27,8 +27,24 @@ to learn more about whatever you want after studying it.
 1. [What is programming?](Introduction/what-is-programming.md)
 2. [Installing Python](Introduction/installing-python.md)
 3. [Getting started with Python](Introduction/getting-started.md)
-4. [Introduction](Introduction/introduction.md)
-5. 
+4. [Basics of Python Programming](Introduction/basics.md)
+5. [Introduction to Algorithms (with GCD as example)](Introduction/introduction.md)
+
+
+### Advanced
+
+If you want to learn more advanced techniques, you can also read this section. Most of the techniques explained here are great when you're working on a large project, and your code would be really repetitive without these things.
+
+You can experiment with these things freely, but please don't use these techniques just because you know how to use them. Prefer the simple techniques from the Basics part instead when possible. Simple is better than complex.
+
+[1. Handy data types]()
+
+[2. Advanced stuff with functions]()
+
+[3. Magic methods]()
+
+[4. Iterables, iterators and generators]()
+
 
 - **Important:** [getting help](getting-help.md)
 - [Contact me](contact-me.md)
