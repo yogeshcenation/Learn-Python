@@ -19,7 +19,7 @@ use Python 2 because it's no longer supported.**
 
 The tutorial consists of:
 
-### Basics
+### a) Basics to Python Programming:
 
 This section will get you started with using Python, and you'll be able
 to learn more about whatever you want after studying it.
@@ -31,21 +31,21 @@ to learn more about whatever you want after studying it.
 5. [Introduction to Algorithms (with GCD as example)](Introduction/introduction.md)
 
 
-### Advanced
+### b) Advanced Concepts :
 
 If you want to learn more advanced techniques, you can also read this section. Most of the techniques explained here are great when you're working on a large project, and your code would be really repetitive without these things.
 
 You can experiment with these things freely, but please don't use these techniques just because you know how to use them. Prefer the simple techniques from the Basics part instead when possible. Simple is better than complex.
 
-[1. Handy data types]()
+[1. Handy data types](https://github.com/yogeshcenation/Python-Programming-DS/blob/17681c9f4fda7478a05f5722e17a863a1d4570af/Advanced/datatypes.md)
 
-[2. Advanced stuff with functions]()
+[2. Advanced stuff with functions](https://github.com/yogeshcenation/Python-Programming-DS/blob/17681c9f4fda7478a05f5722e17a863a1d4570af/Advanced/functions.md)
 
-[3. Magic methods]()
+[3. Magic methods](https://github.com/yogeshcenation/Python-Programming-DS/blob/17681c9f4fda7478a05f5722e17a863a1d4570af/Advanced/magicmethods.md)
 
-[4. Iterables, iterators and generators]()
+[4. Iterables, iterators and generators](https://github.com/yogeshcenation/Python-Programming-DS/blob/17681c9f4fda7478a05f5722e17a863a1d4570af/Advanced/iters.md)
 
-
+### c) Other things this repository comes with :
 - **Important:** [getting help](getting-help.md)
 - [Contact me](contact-me.md)
 
